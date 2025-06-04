@@ -1,0 +1,32 @@
+{
+  "id": "206f9bda-70f4-4e83-a95d-3b6e966036b4",
+  "name": "Aardvark Labs JSON Example",
+  "publisher": "Aardvark Labs",
+  "brief": "Aardvark Labs Example of JSON handling in AL",
+  "description": "Customizations provided by Aardvark Labs",
+  "version": "1.25.0.0",
+  "privacyStatement": "http://aardvarklabs.blog",
+  "EULA": "http://aardvarklabs.blog",
+  "help": "http://aardvarklabs.blog",
+  "contextSensitiveHelpUrl": "http://aardvarklabs.blog",
+  "url": "http://aardvarklabs.blog",
+  "logo": "./AardvarkLabsIcon.jpg",
+  "supportedLocales": ["en-US"],
+  "features": [ "TranslationFile", "GenerateCaptions" ],
+  "dependencies": [],
+  "screenshots": [],
+  "resourceFolders": ["Resources"],
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true, 
+    "allowDownloadingSource": true, 
+    "includeSourceInSymbolFile": false
+  },
+  "target": "Cloud",
+  "idRanges": [
+    {"from": 50000, "to": 59999}
+  ],
+  "runtime":"15.0"
+}
+

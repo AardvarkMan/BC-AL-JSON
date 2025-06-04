@@ -1,0 +1,27 @@
+{
+    "firstName": "Marcel",
+    "lastName": "Chabot",
+    "numberOfPets": 4,
+    "petDetails": [
+        {
+            "type": "dog",
+            "name": "Anna",
+            "age": 3
+        },
+        {
+            "type": "dog",
+            "name": "Honor",
+            "age": 9
+        },
+        {
+            "type": "cat",
+            "name": "Leiah",
+            "age": 9
+        },
+        {
+            "type": "cat",
+            "name": "Moosh",
+            "age": 12
+        }
+    ]
+}
